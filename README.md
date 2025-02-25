@@ -1,0 +1,6 @@
+- 👀 I’m interested in cybersecurity, quality control, and Python development.  
+- 🌱 I’m currently learning VirtualBox with Linux, Python, and expanding my cybersecurity skills.  
+- 💞️ I’m looking to collaborate on security-related projects, automation scripts, and open-source initiatives.  
+- 📫 How to reach me: [Your Email or LinkedIn/GitHub Profile Link]  
+- 😄 Pronouns: [Your Preferred Pronouns]  
+- ⚡ Fun fact: I enjoy breaking things (ethically, of course) to make them stronger! 
